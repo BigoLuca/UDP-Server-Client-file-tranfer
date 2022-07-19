@@ -1,5 +1,5 @@
-# Programmazione ad Oggetti - Laboratorio 01
-
+# Architettura Client-Server UDP per trasferimento file
+Luca Bighini
 ### Indicazioni Generali
 
 * Si faccia riferimento alle slide per la preparazione dell'ambiente di lavoro
