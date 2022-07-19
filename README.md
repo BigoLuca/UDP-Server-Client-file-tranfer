@@ -1,13 +1,12 @@
 # Architettura Client-Server UDP per trasferimento file
-Luca Bighini
-### Indicazioni Generali
-
-* Si faccia riferimento alle slide per la preparazione dell'ambiente di lavoro
-* Si completino gli esercizi in ordine
-  * 00-hello-world
-  * 01-test-scopes
-  * ...
-* All'interno della directory di ciascun esercizio è presente un file `README.md` contenente le istruzioni e/o le indicazioni per lo svolgimento dell'esercizio.
-* Si leggano le istruzioni *con molta attenzione*
-* Si cerchi di procedere autonomamente, contattando il docente e il tutor in caso di necessità
-* Al termine di ciascun esercizio, si contatti il docente o il tutor per mostrare quanto svolto e avere commenti in merito
+ Progetto Reti - Luca Bighini
+## User Guide
+# Enviroment
+Per eseguire i file all’interno del progetto è necessario usare una versione di Python 3.8 o superiore.
+Non è necessario installare alcun pacchetto aggiuntivo in quanto vengono usati solo moduli presenti nella libreria standard di Python.
+#SERVER
+Per eseguire il Server è sufficiente lanciare all’interno della cartella del file il comando:
+'python3 UDP_Server.py'
+#CLIENT
+Per eseguire il Client è sufficiente lanciare all’interno della cartella del file il comando:
+'python3 UDP_Client.py'
