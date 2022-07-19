@@ -6,7 +6,7 @@ Per eseguire i file all’interno del progetto è necessario usare una versione 
 Non è necessario installare alcun pacchetto aggiuntivo in quanto vengono usati solo moduli presenti nella libreria standard di Python.
 ### Server
 Per eseguire il Server è sufficiente lanciare all’interno della cartella del file il comando:
-’python3 UDP_Server.py’
+`python3 UDP_Server.py`
 ### Client
 Per eseguire il Client è sufficiente lanciare all’interno della cartella del file il comando:
-’python3 UDP_Client.py’
+`python3 UDP_Client.py`
